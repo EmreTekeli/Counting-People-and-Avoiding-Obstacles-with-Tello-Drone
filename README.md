@@ -24,6 +24,8 @@ This project provides an example of how DJI Tello drone can be used in various a
 
 
 
+### Türkçe !
+
 ## Proje Açıklaması:
 Bu proje, DJI Tello drone kullanarak engelden kaçınan ve görüntü üzerindeki insanları sayan bir uygulamayı tanıtır. Ayrıca, YOLO (You Only Look Once) nesne tanıma modelini kullanarak görüntüdeki nesneleri tespit eder. Projede ayrıca PID (Proportional-Integral-Derivative) kontrol algoritması kullanılarak drone'un engellerden kaçınması sağlanır.
 
